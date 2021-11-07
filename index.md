@@ -2,7 +2,6 @@
 
 ---
 
-### Category Name 1 
 
 [Alric's Quest](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
