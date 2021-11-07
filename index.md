@@ -3,7 +3,7 @@
 ---
 
 
-[Alric's Quest](/sample_page)
+[Alric's Quest](samples/alrics-quest.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
