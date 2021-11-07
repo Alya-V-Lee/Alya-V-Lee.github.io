@@ -7,7 +7,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[The Revolutionary](/pdf/sample_presentation.pdf)
+[The Revolutionary](samples/Short%20Story.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
