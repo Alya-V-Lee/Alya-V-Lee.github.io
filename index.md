@@ -11,7 +11,7 @@
  <br><br>
 ---
  <br><br>
-[A Crusader's Melancholy](samples/Short%20Story.pdf)
+[[b]A Crusader's Melancholy[/b]](samples/Short%20Story.pdf)
 <br><br>
 <img src="images/crusader_thumbnail.jpg?raw=true"/>
 <p style="font-size:11px">Image was drawn by <a href="https://www.deviantart.com/neisbeis">Neisbeis</a></p>
