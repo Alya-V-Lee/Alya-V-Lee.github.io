@@ -4,14 +4,15 @@
 
 
 [Alric's Quest](samples/alrics-quest.html)
- <br><br>
+<br><br>
 <img src="images/alrics_thumbnail.jpg?raw=true"/>
 <p style="font-size:11px">Image was drawn by <a href="https://www.deviantart.com/antifan-real">Antifan-real</a></p>
  Join Alric on his companion quest, as he delves into a mysterious lair and seeks out the one responsible for taking away all that he holds dear. 
-  <br><br>
+ <br><br>
 ---
  <br><br>
 [A Crusader's Melancholy](samples/Short%20Story.pdf)
+<br><br>
 <img src="images/crusader_thumbnail.jpg?raw=true"/>
 <p style="font-size:11px">Image was drawn by <a href="https://www.deviantart.com/neisbeis">Neisbeis</a></p>
 Explore the musings of a jaded, elven knight as they wander through the bustling streets of Caurdor and prepare to get to work.
