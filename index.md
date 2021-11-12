@@ -20,8 +20,10 @@ Explore the musings of a jaded, elven knight as they wander through the bustling
 ---
 [The Revolutionary](http://example.com/)
  <br><br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+<img src="images/revolutionary_thumbnail.jpg?raw=true"/>
+<p style="font-size:11px">Image was drawn by <a href="https://www.deviantart.com/lemuren">lemuren</a></p>
+Witness the fate of a man who finds himself pushed over the edge after having lived under the oppressive whim's of his peers for too long. 
+<br><br>
 ---
 
 ### Category Name 2
