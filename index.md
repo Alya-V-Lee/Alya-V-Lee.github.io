@@ -7,7 +7,7 @@
  <br><br>
 <img src="images/alrics_thumbnail.jpg?raw=true"/>
  <br><br>
- Join Alric on his companion quest as he delves into the lair of a mysterious witch, and learns what fate befell his missing love...
+ Join Alric on his companion quest, as he delves into a mysterious lair and seeks out the one responsible for taking away all that he holds dear. 
   <br><br>
 ---
 [The Revolutionary](samples/Short%20Story.pdf)
