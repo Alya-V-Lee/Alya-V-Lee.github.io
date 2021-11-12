@@ -6,13 +6,16 @@
 [Alric's Quest](samples/alrics-quest.html)
  <br><br>
 <img src="images/alrics_thumbnail.jpg?raw=true"/>
-
+ <br><br>
+ Join Alric on his companion quest as he delves into the lair of a mysterious witch, and learns what fate befell his missing love...
 ---
 [The Revolutionary](samples/Short%20Story.pdf)
+ <br><br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [A Crusader's Melancholy](http://example.com/)
+ <br><br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
