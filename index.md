@@ -4,6 +4,7 @@
 
 
 [Alric's Quest](samples/alrics-quest.html)
+ <br><br>
 <img src="images/alrics_thumbnail.jpg?raw=true"/>
 
 ---
