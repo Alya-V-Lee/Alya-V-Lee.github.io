@@ -4,7 +4,7 @@
 
 
 [Alric's Quest](samples/alrics-quest.html)
-<img src="images/alric_thumbnail.jp?raw=true"/>
+<img src="images/alric_thumbnail.jpg?raw=true"/>
 
 ---
 [The Revolutionary](samples/Short%20Story.pdf)
