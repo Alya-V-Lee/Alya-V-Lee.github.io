@@ -10,12 +10,14 @@
  Join Alric on his companion quest, as he delves into a mysterious lair and seeks out the one responsible for taking away all that he holds dear. 
   <br><br>
 ---
-[The Revolutionary](samples/Short%20Story.pdf)
  <br><br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[A Crusader's Melancholy](samples/Short%20Story.pdf)
+<img src="images/crusader_thumbnail.jpg?raw=true"/>
+<p style="font-size:11px">Image was drawn by <a href="https://www.deviantart.com/neisbeis">Neisbeis</a></p>
+Explore the musings of a jaded, elven knight as they wander through the bustling streets of Caurdor and prepare to get to work.
+<br><br>
 ---
-[A Crusader's Melancholy](http://example.com/)
+[The Revolutionary](http://example.com/)
  <br><br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
