@@ -3,7 +3,7 @@
 ---
 
 
-[Alric's Quest](samples/alrics-quest.html)
+### [Alric's Quest](samples/alrics-quest.html)
 <br><br>
 <img src="images/alrics_thumbnail.jpg?raw=true"/>
 <p style="font-size:11px">Image was drawn by <a href="https://www.deviantart.com/antifan-real">Antifan-real</a></p>
@@ -11,14 +11,14 @@
  <br><br>
 ---
  <br><br>
-[A Crusader's Melancholy](samples/Short%20Story.pdf)
+### [A Crusader's Melancholy](samples/Short%20Story.pdf)
 <br><br>
 <img src="images/crusader_thumbnail.jpg?raw=true"/>
 <p style="font-size:11px">Image was drawn by <a href="https://www.deviantart.com/neisbeis">Neisbeis</a></p>
 Explore the musings of a jaded, elven knight as they wander through the bustling streets of Caurdor and prepare to get to work.
 <br><br>
 ---
-[The Revolutionary](http://example.com/)
+### [The Revolutionary](http://example.com/)
  <br><br>
 <img src="images/revolutionary_thumbnail.jpg?raw=true"/>
 <p style="font-size:11px">Image was drawn by <a href="https://www.deviantart.com/lemuren">lemuren</a></p>
