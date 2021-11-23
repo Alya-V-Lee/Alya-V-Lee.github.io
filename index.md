@@ -12,7 +12,7 @@
 ### [Scions: A Crusader's Tale](samples/Short%20Story.pdf)
 <img src="images/crusader_thumbnail.jpg?raw=true"/>
 <p style="font-size:11px">Image was drawn by <a href="https://www.deviantart.com/neisbeis">Neisbeis</a></p>
-Explore the musings of a jaded, elven knight as they wander through the bustling streets of Caurdor and prepare to get to work.
+Enter the story of an Elven knight in the first chapter of Scions. A fantasy novel based in the Forgotten Realms setting.
 <br><br>
 ---
 ### [The Revolutionary](http://example.com/)
