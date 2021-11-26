@@ -9,7 +9,7 @@
 Join your companion as he confronts the villain haunting his life in Alric's Quest. An interactive Twine experience inspired by the critically acclaimed Pathfinder: Wrath of the Righteous.
  <br><br>
 ---
-### [Scions: A Crusader's Tale](samples/novel_story_intro.pdf)
+### [Scions: A Crusader's Tale](samples/novel_chapter_intro.pdf)
 <img src="images/crusader_thumbnail.jpg?raw=true"/>
 <p style="font-size:11px">Image was drawn by <a href="https://www.deviantart.com/neisbeis">Neisbeis</a></p>
 Enter the life of a jaded, elven knight in the first chapter of Scions. A fantasy novel based in the Forgotten Realms setting.
