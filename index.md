@@ -3,7 +3,7 @@
 ---
 
 
-### [Alric's Quest](samples/alrics_quest.html)
+### [Alric's Quest](samples/alric's_quest.html)
 <img src="images/alrics_thumbnail.jpg?raw=true"/>
 <p style="font-size:11px">Image was drawn by <a href="https://www.deviantart.com/antifan-real">Antifan-real</a></p>
 Join your companion as he confronts the villain haunting his life in Alric's Quest. An interactive Twine experience inspired by the critically acclaimed Pathfinder: Wrath of the Righteous.
