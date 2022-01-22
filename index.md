@@ -33,5 +33,5 @@ Witness the fate of a man who chooses to fight against oppression in The Revolut
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p><p style="font-size:1px">.(samples/resume)</p>
 <!-- Remove above link if you don't want to attibute -->
